@@ -51,3 +51,32 @@
 // {
 //     Console.WriteLine($"Число {numb} нечетное");
 // }
+
+
+// Задача 8: Напишите программу, которая на вход принимает число (N), 
+// а на выходе показывает все чётные числа от 1 до N.
+
+// Console.WriteLine("Введите чиcло ");
+// int numb = Convert.ToInt32(Console.ReadLine());
+// int numb1 = 1;
+// if (numb % 2 == 0)
+// {
+//     while (numb1 < numb)
+//     {
+//     Console.Write(numb + " ");
+//     numb = numb - 2;
+//     }
+// }
+// else if (numb % 2 == 1)
+// {
+//     numb = numb -1;
+//     while (numb1 < numb)
+//     {
+//     Console.Write(numb + " ");
+//     numb = numb - 2;
+//     }
+// }
+// else 
+// {
+// Console.WriteLine("Ошибка");
+// }
