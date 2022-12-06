@@ -17,7 +17,7 @@
 
 //Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-// Console.WriteLine("Введите два чиcла");
+// Console.WriteLine("Введите три чиcла");
 // Console.Write("Первое ");
 // int numb1 = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Второе ");
